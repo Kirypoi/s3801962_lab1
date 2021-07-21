@@ -1,1 +1,1 @@
-# s3801962_lab1
+This simple Java file is for testing git commands and simple JUnit test cases.
